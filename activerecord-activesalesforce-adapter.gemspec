@@ -58,7 +58,7 @@ Gem::Specification.new do |s|
      "test/unit/recorded_test_case.rb"
   ]
   s.has_rdoc = true
-  s.homepage = %q{http://github.com/johnreilly/activerecord-activesalesforce-adapter}
+  s.homepage = %q{http://github.com/nerdytenor/activerecord-activesalesforce-adapter}
   s.rdoc_options = ["--charset=UTF-8"]
   s.require_paths = ["lib"]
   s.rubygems_version = %q{1.3.1}
